@@ -36,3 +36,4 @@ D:\TechnoArt\Blazor\Project\BlazorDapperCRUD\BlazorDapperCRUD\obj\Debug\net8.0\r
 D:\TechnoArt\Blazor\Project\BlazorDapperCRUD\BlazorDapperCRUD\obj\Debug\net8.0\BlazorDapperCRUD.pdb
 D:\TechnoArt\Blazor\Project\BlazorDapperCRUD\BlazorDapperCRUD\obj\Debug\net8.0\BlazorDapperCRUD.genruntimeconfig.cache
 D:\TechnoArt\Blazor\Project\BlazorDapperCRUD\BlazorDapperCRUD\obj\Debug\net8.0\ref\BlazorDapperCRUD.dll
+D:\TechnoArt\Blazor\Project\BlazorDapperCRUD\BlazorDapperCRUD\obj\Debug\net8.0\BlazorDapperCRUD.sourcelink.json
