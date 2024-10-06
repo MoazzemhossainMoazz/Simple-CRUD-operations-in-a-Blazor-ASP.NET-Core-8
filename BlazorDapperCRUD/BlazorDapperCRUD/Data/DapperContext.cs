@@ -1,15 +1,19 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
-
-public class DapperContext
+namespace BlazorDapperCRUD.Data
 {
-    private readonly string _connectionString;
 
-    public DapperContext(IConfiguration configuration)
+
+    public class DapperContext
     {
-        _connectionString = configuration.GetConnectionString("DefaultConnection");
-    }
+        private readonly string _connectionString;
 
-    public IDbConnection CreateConnection()
-        => new SqlConnection(_connectionString);
+        public DapperContext(IConfiguration configuration)
+        {
+            _connectionString = configuration.GetConnectionString("DefaultConnection");
+        }
+
+        public IDbConnection CreateConnection()
+            => new SqlConnection(_connectionString);
+    }
 }

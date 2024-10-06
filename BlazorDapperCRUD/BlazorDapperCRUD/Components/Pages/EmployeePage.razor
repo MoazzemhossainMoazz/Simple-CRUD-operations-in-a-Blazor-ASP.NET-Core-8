@@ -1,0 +1,145 @@
+﻿@page "/employees"
+@using BlazorDapperCRUD.Data
+@using Dapper
+@rendermode InteractiveServer
+
+@inject BlazorDapperCRUD.Data.DapperContext DapperContext
+
+<h3>Employees</h3>
+
+<button class="btn btn-primary" @onclick="ShowAddForm">Add New Employee</button>
+
+@if (employees == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Salary</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in employees)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.Name</td>
+                    <td>@employee.Department</td>
+                    <td>@employee.Salary</td>
+                    <td>
+                        <button class="btn btn-secondary" @onclick="(() => ShowEditForm(employee))">Edit</button>
+                        <button class="btn btn-danger" @onclick="(() => DeleteEmployee(employee.Id))">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@if (showForm == true)
+{
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" @bind="employee.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Department</label>
+        <input type="text" @bind="employee.Department" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Salary</label>
+        <input type="number" @bind="employee.Salary" class="form-control" />
+    </div>
+    <button class="btn btn-success" @onclick="SaveEmployee">Save</button>
+}
+
+
+<Counter />
+
+@code {
+    private List<Employee> employees;
+    private Employee employee = new Employee();
+    private bool showForm = false;
+    private string formTitle = "Add Employee";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadEmployees();
+    }
+
+    private async Task LoadEmployees()
+    {
+        var query = "SELECT * FROM Employees";
+        using (var connection = DapperContext.CreateConnection())
+        {
+            employees = (await connection.QueryAsync<Employee>(query)).ToList();
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    private void ShowAddForm()
+    {
+        employee = new Employee();
+        formTitle = "Add Employee";
+        showForm = true;
+    }
+
+    private void ShowEditForm(Employee emp)
+    {
+        employee = emp;
+        formTitle = "Edit Employee";
+        showForm = true;
+    }
+
+    private async Task SaveEmployee()
+    {
+        string query;
+        if (employee.Id == 0)
+        {
+            // Insert new employee
+            query = "INSERT INTO Employees (Name, Department, Salary) VALUES (@Name, @Department, @Salary)";
+        }
+        else
+        {
+            // Update existing employee
+            query = "UPDATE Employees SET Name = @Name, Department = @Department, Salary = @Salary WHERE Id = @Id";
+        }
+
+        using (var connection = DapperContext.CreateConnection())
+        {
+            await connection.ExecuteAsync(query, employee);
+        }
+
+        await LoadEmployees();
+        showForm = false;
+    }
+
+    private async Task DeleteEmployee(int id)
+    {
+        var query = "DELETE FROM Employees WHERE Id = @Id";
+        using (var connection = DapperContext.CreateConnection())
+        {
+            await connection.ExecuteAsync(query, new { Id = id });
+        }
+
+        await LoadEmployees();
+    }
+}
