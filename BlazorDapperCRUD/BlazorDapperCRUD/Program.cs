@@ -1,6 +1,10 @@
 using BlazorDapperCRUD.Components;
+using BlazorDapperCRUD.Data;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddSingleton<DapperContext>();
+builder.Services.AddScoped<EmployeeRepository>();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
