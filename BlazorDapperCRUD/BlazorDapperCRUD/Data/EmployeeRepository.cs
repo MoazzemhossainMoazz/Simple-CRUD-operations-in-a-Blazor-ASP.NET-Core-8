@@ -22,6 +22,7 @@ namespace BlazorDapperCRUD.Data
                 var employees = await connection.QueryAsync<Employee>(query);
                 return employees;
             }
+
         }
 
         public async Task<Employee> GetEmployeeByIdAsync(int id)
@@ -36,7 +37,7 @@ namespace BlazorDapperCRUD.Data
 
         public async Task CreateEmployeeAsync(Employee employee)
         {
-            var query = "INSERT INTO Employees (Name, Department, Salary) VALUES (@Name, @Department, @Salary)";
+            var query = "INSERT INTO Employees (Name, Department, Salary, Designation, Location) VALUES (@Name, @Department, @Salary, @Designation, @Location)";
             using (var connection = _context.CreateConnection())
             {
                 await connection.ExecuteAsync(query, employee);
@@ -45,7 +46,7 @@ namespace BlazorDapperCRUD.Data
 
         public async Task UpdateEmployeeAsync(Employee employee)
         {
-            var query = "UPDATE Employees SET Name = @Name, Department = @Department, Salary = @Salary WHERE Id = @Id";
+            var query = "UPDATE Employees SET Name = @Name, Department = @Department, Salary = @Salary, Designation = @Designation, Location = @Location WHERE Id = @Id";
             using (var connection = _context.CreateConnection())
             {
                 await connection.ExecuteAsync(query, employee);

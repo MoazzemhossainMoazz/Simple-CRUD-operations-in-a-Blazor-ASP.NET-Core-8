@@ -3,32 +3,83 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\pages\\employeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\pages\\employeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\.nuget\\packages\\dapper\\2.1.35\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|d:\\technoart\\blazor\\project\\blazordappercrud\\blazordappercrud\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84DD5BE9-1237-4F64-8EEA-218FF2A390A4}|BlazorDapperCRUD\\BlazorDapperCRUD.csproj|solutionrelative:blazordappercrud\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,72 +89,165 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Program.cs",
-              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Program.cs",
-              "RelativeToolTip": "BlazorDapperCRUD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T11:27:03.102Z"
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorDapperCRUD\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T05:19:08.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:08:48.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:14:04.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Layout\\NavMenu.razor*",
-              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Layout\\NavMenu.razor*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-06T11:00:45.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeePage.razor",
               "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\EmployeePage.razor",
               "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Pages\\EmployeePage.razor",
               "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\EmployeePage.razor",
               "RelativeToolTip": "BlazorDapperCRUD\\Components\\Pages\\EmployeePage.razor",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAD8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T15:40:30.114Z"
+              "WhenOpened": "2024-10-03T15:40:30.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
-              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
-              "RelativeToolTip": "BlazorDapperCRUD\\Data\\EmployeeRepository.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:08:48.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Employee.cs",
               "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\Employee.cs",
               "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\Employee.cs",
               "RelativeToolTip": "BlazorDapperCRUD\\Data\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:06:01.9Z"
+              "WhenOpened": "2024-10-03T15:06:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:53.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "BlazorDapperCRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-09T05:19:26.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\wwwroot\\app.css",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\wwwroot\\app.css",
+              "RelativeToolTip": "BlazorDapperCRUD\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-09T05:19:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\HP\\.nuget\\packages\\dapper\\2.1.35\\readme.md",
+              "ToolTip": "C:\\Users\\HP\\.nuget\\packages\\dapper\\2.1.35\\readme.md [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-09T05:18:43.061Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\DapperContext.cs",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\DapperContext.cs",
+              "RelativeToolTip": "BlazorDapperCRUD\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:24:16.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Routes.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:37.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\appsettings.json",
               "RelativeDocumentMoniker": "BlazorDapperCRUD\\appsettings.json",
@@ -111,19 +255,99 @@
               "RelativeToolTip": "BlazorDapperCRUD\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-03T14:27:05.342Z"
+              "WhenOpened": "2024-10-03T14:27:05.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DapperContext.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\DapperContext.cs",
-              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Data\\DapperContext.cs",
-              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Data\\DapperContext.cs",
-              "RelativeToolTip": "BlazorDapperCRUD\\Data\\DapperContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\appsettings.Development.json",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\appsettings.Development.json",
+              "RelativeToolTip": "BlazorDapperCRUD\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T15:14:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Program.cs",
+              "RelativeToolTip": "BlazorDapperCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T14:24:16.905Z"
+              "WhenOpened": "2024-10-06T11:27:03.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\App.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\App.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:45.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\_Imports.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:55.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorDapperCRUD\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\TechnoArt\\Blazor\\Project\\BlazorDapperCRUD\\BlazorDapperCRUD\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorDapperCRUD\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T15:13:13.679Z",
+              "EditorCaption": ""
             }
           ]
         }
